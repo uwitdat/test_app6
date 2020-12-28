@@ -1,1 +1,1 @@
-"ruby on rails first app"
+"first test on ruby on rails first app"
